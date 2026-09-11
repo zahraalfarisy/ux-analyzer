@@ -1,0 +1,70 @@
+{
+  "session_id": "92880346",
+  "recorded_at": "2026-09-01T15:36:12",
+  "total_events": 5,
+  "events": [
+    {
+      "type": "mouse",
+      "ts": 1788251772.2871296,
+      "session_id": "92880346",
+      "x": 400,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 120.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788251772.2871604,
+      "session_id": "92880346",
+      "x": 401,
+      "y": 301,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3500.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788251772.287174,
+      "session_id": "92880346",
+      "x": 402,
+      "y": 300,
+      "meta": {
+        "subtype": "click",
+        "button": "Button.left",
+        "rage_click": true,
+        "hesitated": true,
+        "hesitation_s": 2.5
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788251772.287183,
+      "session_id": "92880346",
+      "x": 402,
+      "y": 300,
+      "meta": {
+        "subtype": "click",
+        "button": "Button.left",
+        "rage_click": true,
+        "hesitated": false,
+        "hesitation_s": 0.1
+      }
+    },
+    {
+      "type": "fer",
+      "ts": 1788251772.2871902,
+      "session_id": "92880346",
+      "x": 0.0,
+      "y": 0.0,
+      "meta": {
+        "emotion": "angry",
+        "score": 0.87
+      }
+    }
+  ]
+}

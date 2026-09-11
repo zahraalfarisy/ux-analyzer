@@ -1,0 +1,8453 @@
+{
+  "session_id": "22a9f508",
+  "recorded_at": "2026-09-02T09:47:26",
+  "total_events": 703,
+  "events": [
+    {
+      "type": "mouse",
+      "ts": 1788317236.932844,
+      "session_id": "22a9f508",
+      "x": 1032,
+      "y": 744,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.9398122,
+      "session_id": "22a9f508",
+      "x": 1022,
+      "y": 748,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1548.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.946681,
+      "session_id": "22a9f508",
+      "x": 1010,
+      "y": 751,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1797.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.9535909,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 755,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2809.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.9604795,
+      "session_id": "22a9f508",
+      "x": 972,
+      "y": 759,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2817.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.9674263,
+      "session_id": "22a9f508",
+      "x": 951,
+      "y": 763,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3079.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.974369,
+      "session_id": "22a9f508",
+      "x": 936,
+      "y": 764,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2165.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.9812317,
+      "session_id": "22a9f508",
+      "x": 922,
+      "y": 766,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2060.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.9881938,
+      "session_id": "22a9f508",
+      "x": 910,
+      "y": 768,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1747.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317236.995062,
+      "session_id": "22a9f508",
+      "x": 902,
+      "y": 771,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1243.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0020819,
+      "session_id": "22a9f508",
+      "x": 892,
+      "y": 773,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1455.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0088797,
+      "session_id": "22a9f508",
+      "x": 878,
+      "y": 778,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2182.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0158265,
+      "session_id": "22a9f508",
+      "x": 863,
+      "y": 782,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2235.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0227435,
+      "session_id": "22a9f508",
+      "x": 842,
+      "y": 790,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3248.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0296626,
+      "session_id": "22a9f508",
+      "x": 824,
+      "y": 797,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2791.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0366867,
+      "session_id": "22a9f508",
+      "x": 808,
+      "y": 803,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2433.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0434575,
+      "session_id": "22a9f508",
+      "x": 790,
+      "y": 812,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2971.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0504065,
+      "session_id": "22a9f508",
+      "x": 775,
+      "y": 820,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2446.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0573058,
+      "session_id": "22a9f508",
+      "x": 759,
+      "y": 825,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2429.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0642197,
+      "session_id": "22a9f508",
+      "x": 741,
+      "y": 833,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2848.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0711484,
+      "session_id": "22a9f508",
+      "x": 727,
+      "y": 839,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2198.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0780325,
+      "session_id": "22a9f508",
+      "x": 712,
+      "y": 844,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2296.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0849283,
+      "session_id": "22a9f508",
+      "x": 702,
+      "y": 849,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1621.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.0918424,
+      "session_id": "22a9f508",
+      "x": 692,
+      "y": 853,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1557.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.098772,
+      "session_id": "22a9f508",
+      "x": 684,
+      "y": 856,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1233.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1056707,
+      "session_id": "22a9f508",
+      "x": 676,
+      "y": 859,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1238.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1126409,
+      "session_id": "22a9f508",
+      "x": 668,
+      "y": 860,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1156.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1195192,
+      "session_id": "22a9f508",
+      "x": 658,
+      "y": 864,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1567.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1264336,
+      "session_id": "22a9f508",
+      "x": 646,
+      "y": 867,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1786.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.133314,
+      "session_id": "22a9f508",
+      "x": 632,
+      "y": 869,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2055.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1402524,
+      "session_id": "22a9f508",
+      "x": 615,
+      "y": 873,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2517.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1471498,
+      "session_id": "22a9f508",
+      "x": 601,
+      "y": 873,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2029.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1541016,
+      "session_id": "22a9f508",
+      "x": 587,
+      "y": 875,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2034.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.160967,
+      "session_id": "22a9f508",
+      "x": 577,
+      "y": 875,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1456.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1678858,
+      "session_id": "22a9f508",
+      "x": 570,
+      "y": 875,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1011.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.174811,
+      "session_id": "22a9f508",
+      "x": 560,
+      "y": 875,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1444.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.18172,
+      "session_id": "22a9f508",
+      "x": 553,
+      "y": 874,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1023.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1886368,
+      "session_id": "22a9f508",
+      "x": 543,
+      "y": 872,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1474.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.1955173,
+      "session_id": "22a9f508",
+      "x": 535,
+      "y": 871,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1171.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2025907,
+      "session_id": "22a9f508",
+      "x": 525,
+      "y": 869,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1444.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.209366,
+      "session_id": "22a9f508",
+      "x": 518,
+      "y": 866,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1121.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.216297,
+      "session_id": "22a9f508",
+      "x": 510,
+      "y": 863,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1232.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2232091,
+      "session_id": "22a9f508",
+      "x": 502,
+      "y": 860,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1236.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2301104,
+      "session_id": "22a9f508",
+      "x": 496,
+      "y": 857,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 971.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2372563,
+      "session_id": "22a9f508",
+      "x": 490,
+      "y": 852,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1095.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2438784,
+      "session_id": "22a9f508",
+      "x": 484,
+      "y": 848,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1086.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2508209,
+      "session_id": "22a9f508",
+      "x": 478,
+      "y": 843,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1124.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.257793,
+      "session_id": "22a9f508",
+      "x": 474,
+      "y": 839,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 811.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.264645,
+      "session_id": "22a9f508",
+      "x": 471,
+      "y": 835,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 729.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2715745,
+      "session_id": "22a9f508",
+      "x": 469,
+      "y": 833,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 408.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2785237,
+      "session_id": "22a9f508",
+      "x": 466,
+      "y": 829,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 719.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.285392,
+      "session_id": "22a9f508",
+      "x": 465,
+      "y": 826,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 460.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2924302,
+      "session_id": "22a9f508",
+      "x": 464,
+      "y": 824,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 317.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.2992454,
+      "session_id": "22a9f508",
+      "x": 463,
+      "y": 823,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 207.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.306073,
+      "session_id": "22a9f508",
+      "x": 463,
+      "y": 822,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.313074,
+      "session_id": "22a9f508",
+      "x": 461,
+      "y": 820,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 404.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.319977,
+      "session_id": "22a9f508",
+      "x": 461,
+      "y": 819,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3268623,
+      "session_id": "22a9f508",
+      "x": 461,
+      "y": 818,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3338163,
+      "session_id": "22a9f508",
+      "x": 461,
+      "y": 817,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3406413,
+      "session_id": "22a9f508",
+      "x": 461,
+      "y": 817,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3475718,
+      "session_id": "22a9f508",
+      "x": 461,
+      "y": 816,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3545249,
+      "session_id": "22a9f508",
+      "x": 462,
+      "y": 815,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3614192,
+      "session_id": "22a9f508",
+      "x": 463,
+      "y": 814,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3684046,
+      "session_id": "22a9f508",
+      "x": 464,
+      "y": 813,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 202.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.375221,
+      "session_id": "22a9f508",
+      "x": 465,
+      "y": 812,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 207.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.382189,
+      "session_id": "22a9f508",
+      "x": 466,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.38917,
+      "session_id": "22a9f508",
+      "x": 469,
+      "y": 809,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 517.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.3959558,
+      "session_id": "22a9f508",
+      "x": 470,
+      "y": 809,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 147.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4030917,
+      "session_id": "22a9f508",
+      "x": 471,
+      "y": 808,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 198.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.409817,
+      "session_id": "22a9f508",
+      "x": 472,
+      "y": 807,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 209.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4167836,
+      "session_id": "22a9f508",
+      "x": 473,
+      "y": 806,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4237022,
+      "session_id": "22a9f508",
+      "x": 474,
+      "y": 805,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.430555,
+      "session_id": "22a9f508",
+      "x": 474,
+      "y": 804,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.437545,
+      "session_id": "22a9f508",
+      "x": 475,
+      "y": 803,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 202.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.444373,
+      "session_id": "22a9f508",
+      "x": 476,
+      "y": 803,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.45128,
+      "session_id": "22a9f508",
+      "x": 476,
+      "y": 802,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4582074,
+      "session_id": "22a9f508",
+      "x": 477,
+      "y": 802,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4650643,
+      "session_id": "22a9f508",
+      "x": 477,
+      "y": 801,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4788964,
+      "session_id": "22a9f508",
+      "x": 478,
+      "y": 801,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4858756,
+      "session_id": "22a9f508",
+      "x": 478,
+      "y": 800,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4926965,
+      "session_id": "22a9f508",
+      "x": 479,
+      "y": 800,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.4996445,
+      "session_id": "22a9f508",
+      "x": 479,
+      "y": 799,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5065687,
+      "session_id": "22a9f508",
+      "x": 480,
+      "y": 799,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5134761,
+      "session_id": "22a9f508",
+      "x": 480,
+      "y": 798,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5203986,
+      "session_id": "22a9f508",
+      "x": 481,
+      "y": 798,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5272906,
+      "session_id": "22a9f508",
+      "x": 482,
+      "y": 797,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5342336,
+      "session_id": "22a9f508",
+      "x": 483,
+      "y": 796,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5411289,
+      "session_id": "22a9f508",
+      "x": 484,
+      "y": 795,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5480494,
+      "session_id": "22a9f508",
+      "x": 485,
+      "y": 794,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5549371,
+      "session_id": "22a9f508",
+      "x": 488,
+      "y": 793,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 459.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5618653,
+      "session_id": "22a9f508",
+      "x": 490,
+      "y": 791,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 408.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5689006,
+      "session_id": "22a9f508",
+      "x": 496,
+      "y": 789,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 899.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.575649,
+      "session_id": "22a9f508",
+      "x": 500,
+      "y": 787,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 662.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.582599,
+      "session_id": "22a9f508",
+      "x": 504,
+      "y": 786,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 593.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5894754,
+      "session_id": "22a9f508",
+      "x": 508,
+      "y": 785,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 599.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.5964136,
+      "session_id": "22a9f508",
+      "x": 510,
+      "y": 785,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 288.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.6034367,
+      "session_id": "22a9f508",
+      "x": 511,
+      "y": 785,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.6102061,
+      "session_id": "22a9f508",
+      "x": 513,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 330.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.617155,
+      "session_id": "22a9f508",
+      "x": 514,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.6241033,
+      "session_id": "22a9f508",
+      "x": 516,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 321.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.6309905,
+      "session_id": "22a9f508",
+      "x": 517,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.6379335,
+      "session_id": "22a9f508",
+      "x": 518,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.6517622,
+      "session_id": "22a9f508",
+      "x": 519,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.658587,
+      "session_id": "22a9f508",
+      "x": 520,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.672469,
+      "session_id": "22a9f508",
+      "x": 521,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.6862822,
+      "session_id": "22a9f508",
+      "x": 522,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.7138965,
+      "session_id": "22a9f508",
+      "x": 522,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.7277112,
+      "session_id": "22a9f508",
+      "x": 523,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.7346892,
+      "session_id": "22a9f508",
+      "x": 523,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.789927,
+      "session_id": "22a9f508",
+      "x": 523,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.8106792,
+      "session_id": "22a9f508",
+      "x": 522,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.8175964,
+      "session_id": "22a9f508",
+      "x": 521,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.82447,
+      "session_id": "22a9f508",
+      "x": 520,
+      "y": 783,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317237.8315265,
+      "session_id": "22a9f508",
+      "x": 520,
+      "y": 783,
+      "meta": {
+        "subtype": "click",
+        "button": "Button.left",
+        "rage_click": false,
+        "hesitated": false,
+        "hesitation_s": 0.01
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.1424766,
+      "session_id": "22a9f508",
+      "x": 531,
+      "y": 763,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 71.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.1494288,
+      "session_id": "22a9f508",
+      "x": 560,
+      "y": 716,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 7944.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.1562786,
+      "session_id": "22a9f508",
+      "x": 600,
+      "y": 667,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 9226.4,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.163165,
+      "session_id": "22a9f508",
+      "x": 641,
+      "y": 625,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8519.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.1702487,
+      "session_id": "22a9f508",
+      "x": 673,
+      "y": 594,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6293.4,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.1770775,
+      "session_id": "22a9f508",
+      "x": 714,
+      "y": 552,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8592.4,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.1839852,
+      "session_id": "22a9f508",
+      "x": 764,
+      "y": 506,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 9836.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.1912065,
+      "session_id": "22a9f508",
+      "x": 822,
+      "y": 464,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 9924.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.197839,
+      "session_id": "22a9f508",
+      "x": 869,
+      "y": 431,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8654.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2050962,
+      "session_id": "22a9f508",
+      "x": 922,
+      "y": 394,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8910.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2118604,
+      "session_id": "22a9f508",
+      "x": 984,
+      "y": 348,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 11401.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.218653,
+      "session_id": "22a9f508",
+      "x": 1042,
+      "y": 303,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 10810.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2255082,
+      "session_id": "22a9f508",
+      "x": 1087,
+      "y": 268,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8321.3,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2324064,
+      "session_id": "22a9f508",
+      "x": 1134,
+      "y": 235,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8320.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.239437,
+      "session_id": "22a9f508",
+      "x": 1182,
+      "y": 202,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8296.5,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2462287,
+      "session_id": "22a9f508",
+      "x": 1221,
+      "y": 171,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 7323.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.253129,
+      "session_id": "22a9f508",
+      "x": 1247,
+      "y": 150,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4843.7,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2600064,
+      "session_id": "22a9f508",
+      "x": 1262,
+      "y": 135,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3084.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2669911,
+      "session_id": "22a9f508",
+      "x": 1273,
+      "y": 124,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2227.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2738388,
+      "session_id": "22a9f508",
+      "x": 1279,
+      "y": 118,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1238.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.280814,
+      "session_id": "22a9f508",
+      "x": 1285,
+      "y": 115,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 962.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2877367,
+      "session_id": "22a9f508",
+      "x": 1288,
+      "y": 112,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 612.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.2946076,
+      "session_id": "22a9f508",
+      "x": 1290,
+      "y": 111,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 325.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.301715,
+      "session_id": "22a9f508",
+      "x": 1291,
+      "y": 110,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 199.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.3153214,
+      "session_id": "22a9f508",
+      "x": 1292,
+      "y": 109,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 103.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.3291872,
+      "session_id": "22a9f508",
+      "x": 1292,
+      "y": 108,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.356877,
+      "session_id": "22a9f508",
+      "x": 1292,
+      "y": 108,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.3709488,
+      "session_id": "22a9f508",
+      "x": 1291,
+      "y": 108,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 71.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.3845577,
+      "session_id": "22a9f508",
+      "x": 1290,
+      "y": 108,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 73.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.3913853,
+      "session_id": "22a9f508",
+      "x": 1289,
+      "y": 108,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.3983052,
+      "session_id": "22a9f508",
+      "x": 1286,
+      "y": 109,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 457.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.405471,
+      "session_id": "22a9f508",
+      "x": 1278,
+      "y": 111,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1151.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4123666,
+      "session_id": "22a9f508",
+      "x": 1266,
+      "y": 116,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1884.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.419098,
+      "session_id": "22a9f508",
+      "x": 1231,
+      "y": 130,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5598.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.426029,
+      "session_id": "22a9f508",
+      "x": 1177,
+      "y": 151,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8364.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4329107,
+      "session_id": "22a9f508",
+      "x": 1140,
+      "y": 172,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6183.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4401278,
+      "session_id": "22a9f508",
+      "x": 1113,
+      "y": 186,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4212.7,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4467764,
+      "session_id": "22a9f508",
+      "x": 1086,
+      "y": 199,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4508.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4536307,
+      "session_id": "22a9f508",
+      "x": 1067,
+      "y": 207,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3006.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.460545,
+      "session_id": "22a9f508",
+      "x": 1050,
+      "y": 214,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2660.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4674437,
+      "session_id": "22a9f508",
+      "x": 1037,
+      "y": 220,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2074.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4743128,
+      "session_id": "22a9f508",
+      "x": 1027,
+      "y": 225,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1626.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4812672,
+      "session_id": "22a9f508",
+      "x": 1019,
+      "y": 230,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1358.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4882874,
+      "session_id": "22a9f508",
+      "x": 1015,
+      "y": 231,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 586.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.4950418,
+      "session_id": "22a9f508",
+      "x": 1009,
+      "y": 234,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 993.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5021565,
+      "session_id": "22a9f508",
+      "x": 1007,
+      "y": 235,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 314.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5089114,
+      "session_id": "22a9f508",
+      "x": 1005,
+      "y": 236,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 330.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5158153,
+      "session_id": "22a9f508",
+      "x": 1004,
+      "y": 237,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.522772,
+      "session_id": "22a9f508",
+      "x": 1002,
+      "y": 237,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 287.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5296164,
+      "session_id": "22a9f508",
+      "x": 1001,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 206.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5368774,
+      "session_id": "22a9f508",
+      "x": 1000,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 138.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5434532,
+      "session_id": "22a9f508",
+      "x": 999,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 151.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5503702,
+      "session_id": "22a9f508",
+      "x": 998,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5641825,
+      "session_id": "22a9f508",
+      "x": 997,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5711844,
+      "session_id": "22a9f508",
+      "x": 996,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.578051,
+      "session_id": "22a9f508",
+      "x": 995,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5849102,
+      "session_id": "22a9f508",
+      "x": 995,
+      "y": 238,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.5987003,
+      "session_id": "22a9f508",
+      "x": 994,
+      "y": 237,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 102.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.612559,
+      "session_id": "22a9f508",
+      "x": 993,
+      "y": 237,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.6194687,
+      "session_id": "22a9f508",
+      "x": 993,
+      "y": 236,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.6263802,
+      "session_id": "22a9f508",
+      "x": 993,
+      "y": 235,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.6402729,
+      "session_id": "22a9f508",
+      "x": 993,
+      "y": 234,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.6471598,
+      "session_id": "22a9f508",
+      "x": 992,
+      "y": 234,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.6540582,
+      "session_id": "22a9f508",
+      "x": 992,
+      "y": 233,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.6747775,
+      "session_id": "22a9f508",
+      "x": 992,
+      "y": 232,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.6886394,
+      "session_id": "22a9f508",
+      "x": 992,
+      "y": 231,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.764654,
+      "session_id": "22a9f508",
+      "x": 992,
+      "y": 230,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 13.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.7718232,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 230,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 139.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.7786705,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 229,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.7992783,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 228,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.8752573,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 227,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 13.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.8890998,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 226,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9034727,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 225,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 70.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9236193,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 224,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 49.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9305344,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 224,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.937578,
+      "session_id": "22a9f508",
+      "x": 991,
+      "y": 223,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9444394,
+      "session_id": "22a9f508",
+      "x": 992,
+      "y": 223,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9581857,
+      "session_id": "22a9f508",
+      "x": 992,
+      "y": 222,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9650965,
+      "session_id": "22a9f508",
+      "x": 993,
+      "y": 222,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9789684,
+      "session_id": "22a9f508",
+      "x": 994,
+      "y": 222,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317238.9996786,
+      "session_id": "22a9f508",
+      "x": 995,
+      "y": 222,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.006599,
+      "session_id": "22a9f508",
+      "x": 996,
+      "y": 221,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.013588,
+      "session_id": "22a9f508",
+      "x": 997,
+      "y": 221,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.0204654,
+      "session_id": "22a9f508",
+      "x": 997,
+      "y": 220,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.0342512,
+      "session_id": "22a9f508",
+      "x": 998,
+      "y": 220,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.041213,
+      "session_id": "22a9f508",
+      "x": 998,
+      "y": 219,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.048136,
+      "session_id": "22a9f508",
+      "x": 999,
+      "y": 219,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.0619059,
+      "session_id": "22a9f508",
+      "x": 1000,
+      "y": 219,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.082683,
+      "session_id": "22a9f508",
+      "x": 1001,
+      "y": 219,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.0897024,
+      "session_id": "22a9f508",
+      "x": 1001,
+      "y": 219,
+      "meta": {
+        "subtype": "click",
+        "button": "Button.left",
+        "rage_click": false,
+        "hesitated": false,
+        "hesitation_s": 0.01
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5182037,
+      "session_id": "22a9f508",
+      "x": 977,
+      "y": 219,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 55.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5251417,
+      "session_id": "22a9f508",
+      "x": 929,
+      "y": 221,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6925.4,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5319476,
+      "session_id": "22a9f508",
+      "x": 889,
+      "y": 224,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5889.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5390859,
+      "session_id": "22a9f508",
+      "x": 844,
+      "y": 229,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6346.3,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5458026,
+      "session_id": "22a9f508",
+      "x": 781,
+      "y": 235,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 9419.3,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5528939,
+      "session_id": "22a9f508",
+      "x": 720,
+      "y": 247,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8767.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5596764,
+      "session_id": "22a9f508",
+      "x": 664,
+      "y": 259,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8446.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5666115,
+      "session_id": "22a9f508",
+      "x": 599,
+      "y": 274,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 9616.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5735993,
+      "session_id": "22a9f508",
+      "x": 537,
+      "y": 290,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 9169.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5805647,
+      "session_id": "22a9f508",
+      "x": 481,
+      "y": 305,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8319.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.587373,
+      "session_id": "22a9f508",
+      "x": 425,
+      "y": 316,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8381.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.5942998,
+      "session_id": "22a9f508",
+      "x": 378,
+      "y": 327,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6969.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.601325,
+      "session_id": "22a9f508",
+      "x": 342,
+      "y": 332,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5181.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6081915,
+      "session_id": "22a9f508",
+      "x": 314,
+      "y": 339,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4206.5,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6150935,
+      "session_id": "22a9f508",
+      "x": 295,
+      "y": 340,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2750.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.621966,
+      "session_id": "22a9f508",
+      "x": 277,
+      "y": 342,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2635.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6288784,
+      "session_id": "22a9f508",
+      "x": 262,
+      "y": 342,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2169.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6358833,
+      "session_id": "22a9f508",
+      "x": 246,
+      "y": 344,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2303.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6427689,
+      "session_id": "22a9f508",
+      "x": 236,
+      "y": 346,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1480.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6495638,
+      "session_id": "22a9f508",
+      "x": 227,
+      "y": 346,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1324.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.656566,
+      "session_id": "22a9f508",
+      "x": 219,
+      "y": 347,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1151.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.663468,
+      "session_id": "22a9f508",
+      "x": 215,
+      "y": 347,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 579.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6704419,
+      "session_id": "22a9f508",
+      "x": 212,
+      "y": 347,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 430.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.677322,
+      "session_id": "22a9f508",
+      "x": 208,
+      "y": 347,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 581.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6841574,
+      "session_id": "22a9f508",
+      "x": 204,
+      "y": 347,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 585.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.691034,
+      "session_id": "22a9f508",
+      "x": 202,
+      "y": 347,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 290.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.6979947,
+      "session_id": "22a9f508",
+      "x": 198,
+      "y": 347,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 574.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7049294,
+      "session_id": "22a9f508",
+      "x": 194,
+      "y": 346,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 594.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.711914,
+      "session_id": "22a9f508",
+      "x": 192,
+      "y": 345,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 320.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.718671,
+      "session_id": "22a9f508",
+      "x": 190,
+      "y": 345,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 295.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7256255,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 343,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 518.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7324584,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 342,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 206.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7395456,
+      "session_id": "22a9f508",
+      "x": 185,
+      "y": 342,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 141.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.74629,
+      "session_id": "22a9f508",
+      "x": 183,
+      "y": 342,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 296.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7532427,
+      "session_id": "22a9f508",
+      "x": 182,
+      "y": 341,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7669978,
+      "session_id": "22a9f508",
+      "x": 181,
+      "y": 340,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 102.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7740424,
+      "session_id": "22a9f508",
+      "x": 180,
+      "y": 339,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 200.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7808833,
+      "session_id": "22a9f508",
+      "x": 179,
+      "y": 338,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 206.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.7946806,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 337,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 102.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.801725,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 336,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8085997,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 335,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8154697,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 333,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 291.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8223867,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 332,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.829325,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 331,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8364377,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 330,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 140.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8433294,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 328,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 289.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8500235,
+      "session_id": "22a9f508",
+      "x": 178,
+      "y": 327,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 149.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8569286,
+      "session_id": "22a9f508",
+      "x": 179,
+      "y": 326,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8638604,
+      "session_id": "22a9f508",
+      "x": 179,
+      "y": 325,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8708699,
+      "session_id": "22a9f508",
+      "x": 180,
+      "y": 324,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 201.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8778098,
+      "session_id": "22a9f508",
+      "x": 180,
+      "y": 323,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.884578,
+      "session_id": "22a9f508",
+      "x": 181,
+      "y": 322,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 208.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.8983412,
+      "session_id": "22a9f508",
+      "x": 181,
+      "y": 321,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.905772,
+      "session_id": "22a9f508",
+      "x": 182,
+      "y": 320,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 190.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9122052,
+      "session_id": "22a9f508",
+      "x": 182,
+      "y": 319,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 154.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.919105,
+      "session_id": "22a9f508",
+      "x": 183,
+      "y": 317,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 324.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9260948,
+      "session_id": "22a9f508",
+      "x": 184,
+      "y": 316,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 202.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9330013,
+      "session_id": "22a9f508",
+      "x": 184,
+      "y": 314,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 289.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9400187,
+      "session_id": "22a9f508",
+      "x": 184,
+      "y": 312,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 285.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9468043,
+      "session_id": "22a9f508",
+      "x": 185,
+      "y": 311,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 208.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9536932,
+      "session_id": "22a9f508",
+      "x": 185,
+      "y": 309,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 290.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9606335,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 308,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.967495,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 306,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 291.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9746704,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 305,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 197.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9813156,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 304,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 150.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9882874,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 303,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317239.9952188,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 302,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.009121,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 301,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 71.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.0158923,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 147.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.050442,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 299,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 40.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.0573876,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 298,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.064331,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 297,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.0712607,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 296,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.078304,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 295,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.0919583,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 294,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 73.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.0988781,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 293,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.1059265,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 292,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 141.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.1126719,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 291,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 148.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.1265078,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 290,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.1473079,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 289,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.1610816,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 288,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.188742,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 287,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 36.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.2096379,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 286,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 47.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.2302134,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 285,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.2509396,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 284,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.2786396,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 283,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 36.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.2993305,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 282,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3132083,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 281,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3339796,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 280,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.340918,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 279,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3477588,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 278,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3547776,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 277,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3616095,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 276,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3686597,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 274,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 284.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3757133,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 273,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 141.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.3823378,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 272,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 151.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.389247,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 269,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 457.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.396308,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 268,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 141.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.4035523,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 267,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 138.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.4099736,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 266,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 155.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.4168935,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 265,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.424031,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 264,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 140.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.4307225,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 263,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 149.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.4514182,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 262,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 68.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.5205429,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 262,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.541284,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 263,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.5550778,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 264,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.5689664,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 265,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.575815,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 266,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.582773,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 267,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.5896702,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 268,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6036236,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 269,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 71.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6104238,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 270,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6173494,
+      "session_id": "22a9f508",
+      "x": 186,
+      "y": 271,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.62437,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 272,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 201.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6311462,
+      "session_id": "22a9f508",
+      "x": 187,
+      "y": 274,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 295.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6380847,
+      "session_id": "22a9f508",
+      "x": 188,
+      "y": 275,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6451027,
+      "session_id": "22a9f508",
+      "x": 190,
+      "y": 278,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 514.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6518698,
+      "session_id": "22a9f508",
+      "x": 193,
+      "y": 282,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 738.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6587791,
+      "session_id": "22a9f508",
+      "x": 195,
+      "y": 284,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 409.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.665707,
+      "session_id": "22a9f508",
+      "x": 199,
+      "y": 288,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 816.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6726656,
+      "session_id": "22a9f508",
+      "x": 203,
+      "y": 292,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 814.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6795616,
+      "session_id": "22a9f508",
+      "x": 207,
+      "y": 296,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 819.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6864939,
+      "session_id": "22a9f508",
+      "x": 211,
+      "y": 299,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 721.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.6933901,
+      "session_id": "22a9f508",
+      "x": 214,
+      "y": 301,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 522.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7002885,
+      "session_id": "22a9f508",
+      "x": 216,
+      "y": 303,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 409.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7071908,
+      "session_id": "22a9f508",
+      "x": 217,
+      "y": 304,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.714096,
+      "session_id": "22a9f508",
+      "x": 218,
+      "y": 305,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7279482,
+      "session_id": "22a9f508",
+      "x": 219,
+      "y": 306,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 102.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7349179,
+      "session_id": "22a9f508",
+      "x": 220,
+      "y": 306,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7418044,
+      "session_id": "22a9f508",
+      "x": 221,
+      "y": 307,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7555737,
+      "session_id": "22a9f508",
+      "x": 222,
+      "y": 307,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7694194,
+      "session_id": "22a9f508",
+      "x": 223,
+      "y": 307,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7832127,
+      "session_id": "22a9f508",
+      "x": 224,
+      "y": 307,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.7901335,
+      "session_id": "22a9f508",
+      "x": 224,
+      "y": 307,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.804192,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 306,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 100.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.838541,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 305,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 29.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.8523097,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 304,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.8730693,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 303,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.8868637,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 302,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.9006965,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 301,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.942205,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 24.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.9491067,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317240.9629786,
+      "session_id": "22a9f508",
+      "x": 225,
+      "y": 300,
+      "meta": {
+        "subtype": "click",
+        "button": "Button.left",
+        "rage_click": false,
+        "hesitated": false,
+        "hesitation_s": 0.01
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.2740471,
+      "session_id": "22a9f508",
+      "x": 230,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 15.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.2808907,
+      "session_id": "22a9f508",
+      "x": 244,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2046.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.2879286,
+      "session_id": "22a9f508",
+      "x": 258,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1990.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.294683,
+      "session_id": "22a9f508",
+      "x": 279,
+      "y": 298,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3120.5,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3019044,
+      "session_id": "22a9f508",
+      "x": 308,
+      "y": 298,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4023.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3086655,
+      "session_id": "22a9f508",
+      "x": 341,
+      "y": 298,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4875.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3155303,
+      "session_id": "22a9f508",
+      "x": 376,
+      "y": 299,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5100.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3223956,
+      "session_id": "22a9f508",
+      "x": 414,
+      "y": 299,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5534.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.329255,
+      "session_id": "22a9f508",
+      "x": 468,
+      "y": 302,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 7878.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3363087,
+      "session_id": "22a9f508",
+      "x": 513,
+      "y": 307,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6424.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3434293,
+      "session_id": "22a9f508",
+      "x": 543,
+      "y": 309,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4223.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3500223,
+      "session_id": "22a9f508",
+      "x": 579,
+      "y": 314,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5506.4,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3570297,
+      "session_id": "22a9f508",
+      "x": 625,
+      "y": 322,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6665.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.363875,
+      "session_id": "22a9f508",
+      "x": 665,
+      "y": 327,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5889.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.370855,
+      "session_id": "22a9f508",
+      "x": 689,
+      "y": 333,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3543.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3777387,
+      "session_id": "22a9f508",
+      "x": 712,
+      "y": 337,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3392.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3846064,
+      "session_id": "22a9f508",
+      "x": 737,
+      "y": 345,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3821.3,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.3915055,
+      "session_id": "22a9f508",
+      "x": 758,
+      "y": 349,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3096.9,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.398418,
+      "session_id": "22a9f508",
+      "x": 777,
+      "y": 355,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2882.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.4056773,
+      "session_id": "22a9f508",
+      "x": 789,
+      "y": 360,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1791.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.412269,
+      "session_id": "22a9f508",
+      "x": 800,
+      "y": 363,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1730.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.4192238,
+      "session_id": "22a9f508",
+      "x": 805,
+      "y": 366,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 838.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.4261775,
+      "session_id": "22a9f508",
+      "x": 808,
+      "y": 369,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 610.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.4330134,
+      "session_id": "22a9f508",
+      "x": 809,
+      "y": 369,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7233338,
+      "session_id": "22a9f508",
+      "x": 823,
+      "y": 365,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 50.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7301893,
+      "session_id": "22a9f508",
+      "x": 854,
+      "y": 357,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4666.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7373734,
+      "session_id": "22a9f508",
+      "x": 892,
+      "y": 346,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5519.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7442226,
+      "session_id": "22a9f508",
+      "x": 940,
+      "y": 332,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 7299.5,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7509425,
+      "session_id": "22a9f508",
+      "x": 972,
+      "y": 325,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4863.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7579021,
+      "session_id": "22a9f508",
+      "x": 1001,
+      "y": 317,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4322.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.764886,
+      "session_id": "22a9f508",
+      "x": 1018,
+      "y": 311,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2580.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7718759,
+      "session_id": "22a9f508",
+      "x": 1033,
+      "y": 305,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2313.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7785878,
+      "session_id": "22a9f508",
+      "x": 1045,
+      "y": 302,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1841.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.78551,
+      "session_id": "22a9f508",
+      "x": 1058,
+      "y": 296,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2068.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7924793,
+      "session_id": "22a9f508",
+      "x": 1070,
+      "y": 293,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1774.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.7993362,
+      "session_id": "22a9f508",
+      "x": 1085,
+      "y": 287,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2356.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8062935,
+      "session_id": "22a9f508",
+      "x": 1099,
+      "y": 282,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2136.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8131473,
+      "session_id": "22a9f508",
+      "x": 1114,
+      "y": 276,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2357.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8200731,
+      "session_id": "22a9f508",
+      "x": 1127,
+      "y": 269,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2131.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.826916,
+      "session_id": "22a9f508",
+      "x": 1142,
+      "y": 264,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2310.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8342853,
+      "session_id": "22a9f508",
+      "x": 1158,
+      "y": 258,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2323.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8408334,
+      "session_id": "22a9f508",
+      "x": 1182,
+      "y": 252,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3777.4,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8477454,
+      "session_id": "22a9f508",
+      "x": 1216,
+      "y": 243,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5078.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.854849,
+      "session_id": "22a9f508",
+      "x": 1244,
+      "y": 237,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4033.3,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.861532,
+      "session_id": "22a9f508",
+      "x": 1266,
+      "y": 233,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3344.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8686364,
+      "session_id": "22a9f508",
+      "x": 1287,
+      "y": 231,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2969.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.875452,
+      "session_id": "22a9f508",
+      "x": 1313,
+      "y": 227,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3865.3,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8823717,
+      "session_id": "22a9f508",
+      "x": 1340,
+      "y": 223,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3944.7,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.8892224,
+      "session_id": "22a9f508",
+      "x": 1361,
+      "y": 221,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3074.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.896149,
+      "session_id": "22a9f508",
+      "x": 1377,
+      "y": 219,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2328.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.90356,
+      "session_id": "22a9f508",
+      "x": 1390,
+      "y": 215,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1845.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.909988,
+      "session_id": "22a9f508",
+      "x": 1404,
+      "y": 214,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2169.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.916885,
+      "session_id": "22a9f508",
+      "x": 1418,
+      "y": 212,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2049.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9240572,
+      "session_id": "22a9f508",
+      "x": 1435,
+      "y": 208,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2436.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9309154,
+      "session_id": "22a9f508",
+      "x": 1449,
+      "y": 206,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2061.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9379833,
+      "session_id": "22a9f508",
+      "x": 1466,
+      "y": 204,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2427.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9445791,
+      "session_id": "22a9f508",
+      "x": 1478,
+      "y": 201,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1870.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.951486,
+      "session_id": "22a9f508",
+      "x": 1486,
+      "y": 199,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1194.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9584167,
+      "session_id": "22a9f508",
+      "x": 1491,
+      "y": 198,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 735.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9652767,
+      "session_id": "22a9f508",
+      "x": 1497,
+      "y": 195,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 977.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.97219,
+      "session_id": "22a9f508",
+      "x": 1501,
+      "y": 194,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 596.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9791706,
+      "session_id": "22a9f508",
+      "x": 1504,
+      "y": 191,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 607.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9860537,
+      "session_id": "22a9f508",
+      "x": 1508,
+      "y": 189,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 649.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9930995,
+      "session_id": "22a9f508",
+      "x": 1511,
+      "y": 187,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 512.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317241.9999726,
+      "session_id": "22a9f508",
+      "x": 1515,
+      "y": 185,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 650.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0067203,
+      "session_id": "22a9f508",
+      "x": 1517,
+      "y": 182,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 534.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0136585,
+      "session_id": "22a9f508",
+      "x": 1520,
+      "y": 181,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 456.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0205727,
+      "session_id": "22a9f508",
+      "x": 1521,
+      "y": 177,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 595.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0275424,
+      "session_id": "22a9f508",
+      "x": 1523,
+      "y": 175,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 405.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0343726,
+      "session_id": "22a9f508",
+      "x": 1525,
+      "y": 172,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 529.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0412514,
+      "session_id": "22a9f508",
+      "x": 1527,
+      "y": 170,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 409.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0483093,
+      "session_id": "22a9f508",
+      "x": 1527,
+      "y": 168,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 283.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.055302,
+      "session_id": "22a9f508",
+      "x": 1528,
+      "y": 165,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 453.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.06211,
+      "session_id": "22a9f508",
+      "x": 1529,
+      "y": 163,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 327.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0692768,
+      "session_id": "22a9f508",
+      "x": 1529,
+      "y": 161,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 279.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.075912,
+      "session_id": "22a9f508",
+      "x": 1531,
+      "y": 158,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 542.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.0828555,
+      "session_id": "22a9f508",
+      "x": 1531,
+      "y": 156,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 288.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.089814,
+      "session_id": "22a9f508",
+      "x": 1531,
+      "y": 154,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 288.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.096696,
+      "session_id": "22a9f508",
+      "x": 1530,
+      "y": 150,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 598.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1036234,
+      "session_id": "22a9f508",
+      "x": 1529,
+      "y": 148,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 322.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.110369,
+      "session_id": "22a9f508",
+      "x": 1528,
+      "y": 144,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 609.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1174023,
+      "session_id": "22a9f508",
+      "x": 1525,
+      "y": 140,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 711.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1243842,
+      "session_id": "22a9f508",
+      "x": 1521,
+      "y": 136,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 814.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1311677,
+      "session_id": "22a9f508",
+      "x": 1517,
+      "y": 132,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 830.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1381176,
+      "session_id": "22a9f508",
+      "x": 1515,
+      "y": 128,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 643.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1451604,
+      "session_id": "22a9f508",
+      "x": 1510,
+      "y": 122,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1113.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1519363,
+      "session_id": "22a9f508",
+      "x": 1506,
+      "y": 118,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 833.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.158837,
+      "session_id": "22a9f508",
+      "x": 1502,
+      "y": 114,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 819.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.165763,
+      "session_id": "22a9f508",
+      "x": 1498,
+      "y": 110,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 814.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.172558,
+      "session_id": "22a9f508",
+      "x": 1495,
+      "y": 106,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 735.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1796672,
+      "session_id": "22a9f508",
+      "x": 1490,
+      "y": 102,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 901.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1864254,
+      "session_id": "22a9f508",
+      "x": 1486,
+      "y": 99,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 739.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.1934314,
+      "session_id": "22a9f508",
+      "x": 1480,
+      "y": 95,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1031.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2002895,
+      "session_id": "22a9f508",
+      "x": 1476,
+      "y": 92,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 727.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2071788,
+      "session_id": "22a9f508",
+      "x": 1472,
+      "y": 88,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 822.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.214165,
+      "session_id": "22a9f508",
+      "x": 1468,
+      "y": 85,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 714.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2210052,
+      "session_id": "22a9f508",
+      "x": 1464,
+      "y": 84,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 602.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2279286,
+      "session_id": "22a9f508",
+      "x": 1460,
+      "y": 82,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 646.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2351484,
+      "session_id": "22a9f508",
+      "x": 1456,
+      "y": 79,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 692.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.241891,
+      "session_id": "22a9f508",
+      "x": 1453,
+      "y": 78,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 469.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2486486,
+      "session_id": "22a9f508",
+      "x": 1449,
+      "y": 76,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 661.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.255932,
+      "session_id": "22a9f508",
+      "x": 1446,
+      "y": 75,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 434.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2624924,
+      "session_id": "22a9f508",
+      "x": 1443,
+      "y": 74,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 481.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.269558,
+      "session_id": "22a9f508",
+      "x": 1440,
+      "y": 73,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 448.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.276301,
+      "session_id": "22a9f508",
+      "x": 1439,
+      "y": 72,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 209.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2833993,
+      "session_id": "22a9f508",
+      "x": 1437,
+      "y": 72,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 281.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.290133,
+      "session_id": "22a9f508",
+      "x": 1435,
+      "y": 71,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 332.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.2970886,
+      "session_id": "22a9f508",
+      "x": 1434,
+      "y": 70,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3043644,
+      "session_id": "22a9f508",
+      "x": 1431,
+      "y": 68,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 498.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3111048,
+      "session_id": "22a9f508",
+      "x": 1430,
+      "y": 67,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 209.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3179815,
+      "session_id": "22a9f508",
+      "x": 1429,
+      "y": 67,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.324897,
+      "session_id": "22a9f508",
+      "x": 1427,
+      "y": 66,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 331.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3316123,
+      "session_id": "22a9f508",
+      "x": 1426,
+      "y": 66,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3386378,
+      "session_id": "22a9f508",
+      "x": 1425,
+      "y": 65,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 201.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3455458,
+      "session_id": "22a9f508",
+      "x": 1424,
+      "y": 65,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.352333,
+      "session_id": "22a9f508",
+      "x": 1422,
+      "y": 65,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 294.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.359259,
+      "session_id": "22a9f508",
+      "x": 1421,
+      "y": 64,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3662055,
+      "session_id": "22a9f508",
+      "x": 1420,
+      "y": 64,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.373114,
+      "session_id": "22a9f508",
+      "x": 1419,
+      "y": 63,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3801818,
+      "session_id": "22a9f508",
+      "x": 1417,
+      "y": 63,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 282.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.3869734,
+      "session_id": "22a9f508",
+      "x": 1416,
+      "y": 62,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 208.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.39397,
+      "session_id": "22a9f508",
+      "x": 1415,
+      "y": 62,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.4007683,
+      "session_id": "22a9f508",
+      "x": 1414,
+      "y": 62,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.4076934,
+      "session_id": "22a9f508",
+      "x": 1413,
+      "y": 61,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.4145823,
+      "session_id": "22a9f508",
+      "x": 1412,
+      "y": 61,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.42154,
+      "session_id": "22a9f508",
+      "x": 1412,
+      "y": 60,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.4283526,
+      "session_id": "22a9f508",
+      "x": 1411,
+      "y": 60,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.4421892,
+      "session_id": "22a9f508",
+      "x": 1410,
+      "y": 60,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.476811,
+      "session_id": "22a9f508",
+      "x": 1409,
+      "y": 60,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 28.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.5048385,
+      "session_id": "22a9f508",
+      "x": 1408,
+      "y": 60,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 35.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.5250893,
+      "session_id": "22a9f508",
+      "x": 1407,
+      "y": 60,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 49.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.539167,
+      "session_id": "22a9f508",
+      "x": 1407,
+      "y": 60,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.5803676,
+      "session_id": "22a9f508",
+      "x": 1406,
+      "y": 61,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 34.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.6288786,
+      "session_id": "22a9f508",
+      "x": 1405,
+      "y": 61,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 20.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.670648,
+      "session_id": "22a9f508",
+      "x": 1405,
+      "y": 61,
+      "meta": {
+        "subtype": "click",
+        "button": "Button.left",
+        "rage_click": false,
+        "hesitated": false,
+        "hesitation_s": 0.04
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317242.9952335,
+      "session_id": "22a9f508",
+      "x": 1405,
+      "y": 63,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.0021865,
+      "session_id": "22a9f508",
+      "x": 1407,
+      "y": 67,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 643.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.0090375,
+      "session_id": "22a9f508",
+      "x": 1408,
+      "y": 73,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 887.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.015959,
+      "session_id": "22a9f508",
+      "x": 1410,
+      "y": 80,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1051.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.0228875,
+      "session_id": "22a9f508",
+      "x": 1412,
+      "y": 86,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 913.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.029793,
+      "session_id": "22a9f508",
+      "x": 1414,
+      "y": 92,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 915.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.036787,
+      "session_id": "22a9f508",
+      "x": 1415,
+      "y": 95,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 452.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.0436518,
+      "session_id": "22a9f508",
+      "x": 1416,
+      "y": 101,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 885.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.0505884,
+      "session_id": "22a9f508",
+      "x": 1418,
+      "y": 106,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 776.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.057433,
+      "session_id": "22a9f508",
+      "x": 1419,
+      "y": 112,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 888.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.064355,
+      "session_id": "22a9f508",
+      "x": 1421,
+      "y": 119,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1051.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.0713165,
+      "session_id": "22a9f508",
+      "x": 1421,
+      "y": 131,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1723.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.078201,
+      "session_id": "22a9f508",
+      "x": 1422,
+      "y": 145,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2038.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.085074,
+      "session_id": "22a9f508",
+      "x": 1424,
+      "y": 162,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2490.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.092034,
+      "session_id": "22a9f508",
+      "x": 1426,
+      "y": 181,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2745.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.0988955,
+      "session_id": "22a9f508",
+      "x": 1430,
+      "y": 197,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2403.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.105866,
+      "session_id": "22a9f508",
+      "x": 1430,
+      "y": 214,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2439.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1127577,
+      "session_id": "22a9f508",
+      "x": 1434,
+      "y": 228,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2112.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.119661,
+      "session_id": "22a9f508",
+      "x": 1435,
+      "y": 242,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2033.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1265366,
+      "session_id": "22a9f508",
+      "x": 1437,
+      "y": 257,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2200.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1335232,
+      "session_id": "22a9f508",
+      "x": 1439,
+      "y": 269,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1741.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1404402,
+      "session_id": "22a9f508",
+      "x": 1441,
+      "y": 281,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1758.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.147215,
+      "session_id": "22a9f508",
+      "x": 1442,
+      "y": 288,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1043.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1542325,
+      "session_id": "22a9f508",
+      "x": 1443,
+      "y": 292,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 587.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1611516,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 298,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 914.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1681135,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 300,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 287.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.174964,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 304,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 583.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1818693,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 305,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1887846,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 307,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 289.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.1956778,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 309,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 290.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.2027018,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 310,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.2097347,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 312,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 283.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.2163677,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 314,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 301.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.2233043,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 316,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 288.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.2302232,
+      "session_id": "22a9f508",
+      "x": 1445,
+      "y": 319,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 433.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.2374125,
+      "session_id": "22a9f508",
+      "x": 1444,
+      "y": 320,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 197.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.569087,
+      "session_id": "22a9f508",
+      "x": 1450,
+      "y": 306,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 45.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.5761282,
+      "session_id": "22a9f508",
+      "x": 1462,
+      "y": 284,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3559.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.5827928,
+      "session_id": "22a9f508",
+      "x": 1474,
+      "y": 261,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3879.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.589675,
+      "session_id": "22a9f508",
+      "x": 1486,
+      "y": 242,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3265.0,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.5966442,
+      "session_id": "22a9f508",
+      "x": 1495,
+      "y": 227,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2510.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.603771,
+      "session_id": "22a9f508",
+      "x": 1503,
+      "y": 212,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2392.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6106758,
+      "session_id": "22a9f508",
+      "x": 1510,
+      "y": 203,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1652.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6173627,
+      "session_id": "22a9f508",
+      "x": 1515,
+      "y": 193,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1665.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6244178,
+      "session_id": "22a9f508",
+      "x": 1520,
+      "y": 185,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1338.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6311533,
+      "session_id": "22a9f508",
+      "x": 1523,
+      "y": 177,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1267.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6383367,
+      "session_id": "22a9f508",
+      "x": 1527,
+      "y": 171,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1007.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6451435,
+      "session_id": "22a9f508",
+      "x": 1531,
+      "y": 163,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1310.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6518543,
+      "session_id": "22a9f508",
+      "x": 1533,
+      "y": 157,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 941.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6588104,
+      "session_id": "22a9f508",
+      "x": 1535,
+      "y": 153,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 643.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6657293,
+      "session_id": "22a9f508",
+      "x": 1536,
+      "y": 148,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 737.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6726918,
+      "session_id": "22a9f508",
+      "x": 1539,
+      "y": 146,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 517.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.6795166,
+      "session_id": "22a9f508",
+      "x": 1540,
+      "y": 142,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 604.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.686461,
+      "session_id": "22a9f508",
+      "x": 1540,
+      "y": 139,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 431.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.693445,
+      "session_id": "22a9f508",
+      "x": 1541,
+      "y": 137,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 320.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7003171,
+      "session_id": "22a9f508",
+      "x": 1542,
+      "y": 136,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.707375,
+      "session_id": "22a9f508",
+      "x": 1543,
+      "y": 134,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 317.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7141447,
+      "session_id": "22a9f508",
+      "x": 1544,
+      "y": 131,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 466.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.721104,
+      "session_id": "22a9f508",
+      "x": 1545,
+      "y": 130,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7280314,
+      "session_id": "22a9f508",
+      "x": 1546,
+      "y": 128,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 322.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.735064,
+      "session_id": "22a9f508",
+      "x": 1546,
+      "y": 126,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 284.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7418253,
+      "session_id": "22a9f508",
+      "x": 1547,
+      "y": 125,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 209.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.748707,
+      "session_id": "22a9f508",
+      "x": 1549,
+      "y": 123,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 410.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7556772,
+      "session_id": "22a9f508",
+      "x": 1550,
+      "y": 120,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 453.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.762512,
+      "session_id": "22a9f508",
+      "x": 1551,
+      "y": 119,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 206.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.769896,
+      "session_id": "22a9f508",
+      "x": 1551,
+      "y": 118,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 136.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7763836,
+      "session_id": "22a9f508",
+      "x": 1552,
+      "y": 116,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 343.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7902334,
+      "session_id": "22a9f508",
+      "x": 1552,
+      "y": 115,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.7970722,
+      "session_id": "22a9f508",
+      "x": 1553,
+      "y": 114,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 206.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8045397,
+      "session_id": "22a9f508",
+      "x": 1553,
+      "y": 113,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 134.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8109176,
+      "session_id": "22a9f508",
+      "x": 1554,
+      "y": 113,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 156.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8178804,
+      "session_id": "22a9f508",
+      "x": 1554,
+      "y": 112,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8316793,
+      "session_id": "22a9f508",
+      "x": 1554,
+      "y": 111,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8387053,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 110,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 201.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.845557,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 109,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8524,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 108,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8593664,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 106,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 287.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8663614,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 104,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 285.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.873141,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 102,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 295.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8801007,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 98,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 574.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8869267,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 96,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 292.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.8941982,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 92,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 550.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.900938,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 90,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 296.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9077494,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 89,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9149284,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 87,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 279.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9218688,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 86,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9288995,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 85,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.935687,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 84,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 147.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.942252,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 83,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 151.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9492505,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 82,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9562552,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 81,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.963242,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 80,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9768326,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 79,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 73.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9907205,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 78,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317243.9976954,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 77,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.004995,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 76,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 137.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.0115008,
+      "session_id": "22a9f508",
+      "x": 1555,
+      "y": 75,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 153.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.0252686,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 74,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 102.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.032396,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 73,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 140.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.0391638,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 72,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 147.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.0462098,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 71,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.053077,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 70,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.0668256,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 69,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.0737178,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 68,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.080619,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 67,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.0944471,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 66,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.1082528,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 65,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.1290479,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 64,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 48.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.2810042,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 64,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 0.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317244.6267328,
+      "session_id": "22a9f508",
+      "x": 1556,
+      "y": 64,
+      "meta": {
+        "subtype": "click",
+        "button": "Button.left",
+        "rage_click": false,
+        "hesitated": false,
+        "hesitation_s": 0.35
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.0414915,
+      "session_id": "22a9f508",
+      "x": 1553,
+      "y": 69,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 7.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.0482638,
+      "session_id": "22a9f508",
+      "x": 1548,
+      "y": 82,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2056.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.055214,
+      "session_id": "22a9f508",
+      "x": 1540,
+      "y": 101,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2969.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.0621223,
+      "session_id": "22a9f508",
+      "x": 1526,
+      "y": 133,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5051.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.0691373,
+      "session_id": "22a9f508",
+      "x": 1501,
+      "y": 196,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 9671.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.0761049,
+      "session_id": "22a9f508",
+      "x": 1485,
+      "y": 240,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6720.7,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.0828614,
+      "session_id": "22a9f508",
+      "x": 1469,
+      "y": 276,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5830.7,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.0897644,
+      "session_id": "22a9f508",
+      "x": 1457,
+      "y": 310,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5219.1,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.096731,
+      "session_id": "22a9f508",
+      "x": 1446,
+      "y": 357,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 6930.5,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1039526,
+      "session_id": "22a9f508",
+      "x": 1436,
+      "y": 395,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 5461.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1108022,
+      "session_id": "22a9f508",
+      "x": 1430,
+      "y": 423,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4163.3,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1174092,
+      "session_id": "22a9f508",
+      "x": 1423,
+      "y": 451,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4367.8,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1243641,
+      "session_id": "22a9f508",
+      "x": 1414,
+      "y": 484,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4917.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1312327,
+      "session_id": "22a9f508",
+      "x": 1407,
+      "y": 512,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 4203.6,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1386063,
+      "session_id": "22a9f508",
+      "x": 1403,
+      "y": 531,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2637.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1453733,
+      "session_id": "22a9f508",
+      "x": 1400,
+      "y": 546,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2256.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1520107,
+      "session_id": "22a9f508",
+      "x": 1396,
+      "y": 558,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1905.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1589482,
+      "session_id": "22a9f508",
+      "x": 1394,
+      "y": 575,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2467.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1657932,
+      "session_id": "22a9f508",
+      "x": 1393,
+      "y": 589,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2049.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1731668,
+      "session_id": "22a9f508",
+      "x": 1393,
+      "y": 603,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1899.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.179542,
+      "session_id": "22a9f508",
+      "x": 1393,
+      "y": 615,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1880.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1865275,
+      "session_id": "22a9f508",
+      "x": 1395,
+      "y": 623,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1181.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.1934545,
+      "session_id": "22a9f508",
+      "x": 1398,
+      "y": 631,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1233.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.2002723,
+      "session_id": "22a9f508",
+      "x": 1400,
+      "y": 633,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 414.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.4974158,
+      "session_id": "22a9f508",
+      "x": 1396,
+      "y": 652,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 65.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5046213,
+      "session_id": "22a9f508",
+      "x": 1391,
+      "y": 673,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 3019.2,
+        "erratic": true
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5115945,
+      "session_id": "22a9f508",
+      "x": 1387,
+      "y": 692,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2765.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.518384,
+      "session_id": "22a9f508",
+      "x": 1381,
+      "y": 711,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2934.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5253825,
+      "session_id": "22a9f508",
+      "x": 1377,
+      "y": 728,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 2496.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5321581,
+      "session_id": "22a9f508",
+      "x": 1374,
+      "y": 740,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1825.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5390618,
+      "session_id": "22a9f508",
+      "x": 1371,
+      "y": 748,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 1236.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5462751,
+      "session_id": "22a9f508",
+      "x": 1369,
+      "y": 754,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 877.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5529969,
+      "session_id": "22a9f508",
+      "x": 1368,
+      "y": 759,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 758.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5598013,
+      "session_id": "22a9f508",
+      "x": 1367,
+      "y": 763,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 605.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5667965,
+      "session_id": "22a9f508",
+      "x": 1367,
+      "y": 765,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 285.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5735717,
+      "session_id": "22a9f508",
+      "x": 1365,
+      "y": 769,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 661.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5805519,
+      "session_id": "22a9f508",
+      "x": 1364,
+      "y": 771,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 320.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5877023,
+      "session_id": "22a9f508",
+      "x": 1363,
+      "y": 775,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 576.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.5943367,
+      "session_id": "22a9f508",
+      "x": 1362,
+      "y": 777,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 336.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6014912,
+      "session_id": "22a9f508",
+      "x": 1360,
+      "y": 781,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 626.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6082242,
+      "session_id": "22a9f508",
+      "x": 1359,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 470.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6153076,
+      "session_id": "22a9f508",
+      "x": 1357,
+      "y": 788,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 630.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.622099,
+      "session_id": "22a9f508",
+      "x": 1355,
+      "y": 790,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 416.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6288438,
+      "session_id": "22a9f508",
+      "x": 1354,
+      "y": 792,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 331.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6362422,
+      "session_id": "22a9f508",
+      "x": 1353,
+      "y": 795,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 428.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6426876,
+      "session_id": "22a9f508",
+      "x": 1352,
+      "y": 797,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 346.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6496744,
+      "session_id": "22a9f508",
+      "x": 1349,
+      "y": 798,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 452.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6567612,
+      "session_id": "22a9f508",
+      "x": 1348,
+      "y": 799,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 199.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6636124,
+      "session_id": "22a9f508",
+      "x": 1347,
+      "y": 802,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 462.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6705267,
+      "session_id": "22a9f508",
+      "x": 1346,
+      "y": 803,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6771548,
+      "session_id": "22a9f508",
+      "x": 1344,
+      "y": 804,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 336.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6842475,
+      "session_id": "22a9f508",
+      "x": 1342,
+      "y": 806,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 398.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.69121,
+      "session_id": "22a9f508",
+      "x": 1341,
+      "y": 806,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.6981013,
+      "session_id": "22a9f508",
+      "x": 1337,
+      "y": 807,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 597.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7051153,
+      "session_id": "22a9f508",
+      "x": 1335,
+      "y": 808,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 319.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7120204,
+      "session_id": "22a9f508",
+      "x": 1332,
+      "y": 810,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 522.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7189987,
+      "session_id": "22a9f508",
+      "x": 1330,
+      "y": 810,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 287.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.725796,
+      "session_id": "22a9f508",
+      "x": 1328,
+      "y": 810,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 294.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7328804,
+      "session_id": "22a9f508",
+      "x": 1324,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 582.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7398052,
+      "session_id": "22a9f508",
+      "x": 1322,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 288.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7465124,
+      "session_id": "22a9f508",
+      "x": 1318,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 596.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7533321,
+      "session_id": "22a9f508",
+      "x": 1316,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 292.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.76053,
+      "session_id": "22a9f508",
+      "x": 1312,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 558.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7673428,
+      "session_id": "22a9f508",
+      "x": 1310,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 294.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7741883,
+      "session_id": "22a9f508",
+      "x": 1306,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 580.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.781178,
+      "session_id": "22a9f508",
+      "x": 1304,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 286.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.78802,
+      "session_id": "22a9f508",
+      "x": 1300,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 586.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.7949522,
+      "session_id": "22a9f508",
+      "x": 1296,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 576.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8021364,
+      "session_id": "22a9f508",
+      "x": 1294,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 278.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8087757,
+      "session_id": "22a9f508",
+      "x": 1290,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 600.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8155856,
+      "session_id": "22a9f508",
+      "x": 1288,
+      "y": 811,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 293.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8226597,
+      "session_id": "22a9f508",
+      "x": 1284,
+      "y": 809,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 631.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8296573,
+      "session_id": "22a9f508",
+      "x": 1280,
+      "y": 809,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 575.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8365784,
+      "session_id": "22a9f508",
+      "x": 1277,
+      "y": 808,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 454.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8431847,
+      "session_id": "22a9f508",
+      "x": 1273,
+      "y": 807,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 623.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8501892,
+      "session_id": "22a9f508",
+      "x": 1270,
+      "y": 806,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 452.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8571925,
+      "session_id": "22a9f508",
+      "x": 1267,
+      "y": 804,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 514.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.864083,
+      "session_id": "22a9f508",
+      "x": 1264,
+      "y": 804,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 435.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8710308,
+      "session_id": "22a9f508",
+      "x": 1262,
+      "y": 803,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 321.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8777738,
+      "session_id": "22a9f508",
+      "x": 1258,
+      "y": 802,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 610.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8848898,
+      "session_id": "22a9f508",
+      "x": 1257,
+      "y": 801,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 198.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.8916984,
+      "session_id": "22a9f508",
+      "x": 1255,
+      "y": 800,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 329.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.898507,
+      "session_id": "22a9f508",
+      "x": 1253,
+      "y": 799,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 328.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9054136,
+      "session_id": "22a9f508",
+      "x": 1252,
+      "y": 798,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 204.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.912173,
+      "session_id": "22a9f508",
+      "x": 1249,
+      "y": 798,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 442.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9191074,
+      "session_id": "22a9f508",
+      "x": 1248,
+      "y": 798,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9263809,
+      "session_id": "22a9f508",
+      "x": 1247,
+      "y": 797,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 194.8,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9330103,
+      "session_id": "22a9f508",
+      "x": 1246,
+      "y": 796,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 213.2,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9399447,
+      "session_id": "22a9f508",
+      "x": 1244,
+      "y": 796,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 288.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9467702,
+      "session_id": "22a9f508",
+      "x": 1243,
+      "y": 795,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 207.0,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.960549,
+      "session_id": "22a9f508",
+      "x": 1241,
+      "y": 794,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 162.3,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9675238,
+      "session_id": "22a9f508",
+      "x": 1240,
+      "y": 793,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 202.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9745357,
+      "session_id": "22a9f508",
+      "x": 1239,
+      "y": 793,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 142.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9813414,
+      "session_id": "22a9f508",
+      "x": 1237,
+      "y": 792,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 328.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.9882858,
+      "session_id": "22a9f508",
+      "x": 1236,
+      "y": 792,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 143.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317245.995168,
+      "session_id": "22a9f508",
+      "x": 1235,
+      "y": 791,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 205.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0089774,
+      "session_id": "22a9f508",
+      "x": 1234,
+      "y": 790,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 102.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0158327,
+      "session_id": "22a9f508",
+      "x": 1233,
+      "y": 790,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 145.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0227726,
+      "session_id": "22a9f508",
+      "x": 1232,
+      "y": 790,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0297265,
+      "session_id": "22a9f508",
+      "x": 1231,
+      "y": 789,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 203.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0368574,
+      "session_id": "22a9f508",
+      "x": 1230,
+      "y": 789,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 140.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0434942,
+      "session_id": "22a9f508",
+      "x": 1229,
+      "y": 788,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 212.7,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.057275,
+      "session_id": "22a9f508",
+      "x": 1228,
+      "y": 787,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 102.6,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0711741,
+      "session_id": "22a9f508",
+      "x": 1227,
+      "y": 787,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 71.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0780745,
+      "session_id": "22a9f508",
+      "x": 1227,
+      "y": 786,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.9,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.0849154,
+      "session_id": "22a9f508",
+      "x": 1226,
+      "y": 786,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 146.1,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.098723,
+      "session_id": "22a9f508",
+      "x": 1226,
+      "y": 785,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.1056511,
+      "session_id": "22a9f508",
+      "x": 1225,
+      "y": 785,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 144.4,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.119447,
+      "session_id": "22a9f508",
+      "x": 1224,
+      "y": 785,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 72.5,
+        "erratic": false
+      }
+    },
+    {
+      "type": "mouse",
+      "ts": 1788317246.2372746,
+      "session_id": "22a9f508",
+      "x": 1224,
+      "y": 784,
+      "meta": {
+        "subtype": "move",
+        "speed_px_s": 8.5,
+        "erratic": false
+      }
+    }
+  ]
+}
